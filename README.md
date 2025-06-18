@@ -1,5 +1,5 @@
 # Templete Portfolio Website
-This is a simple portfolio website template built with HTML, CSS, and JavaScript. It includes a navigation bar, a hero section, a portfolio section, a contact section, and a footer.
+This is a simple Static portfolio website template built with HTML, CSS, and JavaScript. It includes a navigation bar, a hero section, a portfolio section, a contact section, and a footer.
 ## **Screenshots 📸**
 ![Image](./images/Macbook-Air-ghosts-octopus.github.io.png)
 
