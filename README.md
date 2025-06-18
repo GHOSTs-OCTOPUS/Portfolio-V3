@@ -24,7 +24,7 @@ Pull requests are welcome. If you'd like to contribute to this project, please f
 ## **License 📜**
 This project is licensed under the MIT License.
 ## **Acknowledgments 🙏**
-This project was inspired by the work of [Octopus](https://octopus.github.io/).
+This project was inspired by the work of [GHOSTs-OCTOPUS](https://octopus.github.io/).
 ## **Contact 📲**
 If you have any questions or would like to collaborate, please contact me at [kolevikasxyz@gmail.com](
     mailto:kolevikasxyz@gmail.com).
