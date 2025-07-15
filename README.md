@@ -27,10 +27,8 @@ This project is licensed under the MIT License.
 This project was inspired by the work of [GHOSTs-OCTOPUS](https://octopus.github.io/).
 ## **Contact 📲**
 If you have any questions or would like to collaborate, please contact me at [kolevikasxyz@gmail.com](
-    mailto:kolevikasxyz@gmail.com).
-    
-<br>
-# STATUS | COMPLETE..<BR>
+    mailto:kolevikasxyz@gmail.com).    
+# **STATUS** | COMPLETE
 Credit: [kole vikas](https://github.com/GHOSTs-OCTOPUS)<BR>
 Last Edited on: 10/06/2025
     
