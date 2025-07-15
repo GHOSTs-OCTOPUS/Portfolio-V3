@@ -29,3 +29,8 @@ This project was inspired by the work of [GHOSTs-OCTOPUS](https://octopus.github
 If you have any questions or would like to collaborate, please contact me at [kolevikasxyz@gmail.com](
     mailto:kolevikasxyz@gmail.com).
     
+<br>
+# STATUS | COMPLETE..<BR>
+Credit: [kole vikas](https://github.com/GHOSTs-OCTOPUS)<BR>
+Last Edited on: 10/06/2025
+    
